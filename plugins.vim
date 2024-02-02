@@ -2,7 +2,8 @@ call plug#begin('~/.vim/plugged')
 
 " Plug 'ericbn/vim-solarized'
 " Plug 'madyanov/gruber.vim'
-Plug 'rakr/vim-one'
+" Plug 'rakr/vim-one'
+Plug 'audibleblink/hackthebox.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
